@@ -1,12 +1,12 @@
-##Hi, I'm Divya 👋
+# Hi, I'm Divya 👋
 
 🎓 B.Tech CSE Student
 
-##📊 Aspiring Data Analyst
+# 📊 Aspiring Data Analyst
 
 This repository documents my journey as I learn Data Analytics through hands-on practice, projects, and real-world datasets.
 
-##🚀 Skills I'm Learning
+#🚀 Skills I'm Learning
 
 - Excel
 - NumPy
@@ -14,7 +14,7 @@ This repository documents my journey as I learn Data Analytics through hands-on 
 - SQL
 - Power BI
 
-##📚 Learning Progress
+#📚 Learning Progress
 
 Excel
 
@@ -28,11 +28,11 @@ NumPy
 - Array Operations
 - Statistical Functions
 
-##🎯 Goal
+#🎯 Goal
 
 Build strong analytical skills, work with real-world datasets, and become internship-ready in Data Analytics.
 
-##📌 Current Focus
+#📌 Current Focus
 
 - Strengthening Python fundamentals
 - Learning Excel for Data Analysis
