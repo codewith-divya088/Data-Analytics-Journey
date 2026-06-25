@@ -1,23 +1,32 @@
+Hi, I'm Divya 👋
 
-# Data Analytics Journey 📊
+I'm a B.Tech CSE student currently building my skills in Data Analytics through consistent learning and hands-on projects.
 
-Documenting my journey from Python learner to Data Analyst.
+This repository documents my journey as I learn and practice:
 
-## Current Learning
 - Excel
-- Python Revision
-- SQL
-
-## Upcoming
+- NumPy
 - Pandas
+- SQL
 - Power BI
-- Data Visualization
+- Data Analytics Projects
 
-## Goal
-Become internship-ready within the next 3 months through consistent learning and project building.
+Learning Progress
 
-## Progress Log
-### Day 1
-- Started Excel learning
-- Updated GitHub profile
-- Created Data-Analytics-Journey repository
+Excel
+
+- Introduction to Excel
+
+NumPy
+
+- Arrays
+- Array Indexing
+- Array Slicing
+- Array Operations
+- Statistical Functions
+
+Goal
+
+Build strong analytical skills, work on real-world datasets, and become internship-ready in Data Analytics.
+
+Learning one step at a time.
