@@ -1,43 +1,45 @@
-# Hi, I'm Divya 👋
+# 📊 Data Analytics Journey
 
-🎓 B.Tech CSE Student
+Welcome to my Data Analytics learning journey! 🚀
 
-# 📊 Aspiring Data Analyst
+I'm documenting everything I learn as I work toward becoming a Data Analyst.
 
-This repository documents my journey as I learn Data Analytics through hands-on practice, projects, and real-world datasets.
+## 🛠️ Skills & Tools
 
-# 🚀 Skills I'm Learning
-
-- Excel
+- Microsoft Excel
 - NumPy
 - Pandas
+- SQL *(Coming Soon)*
+- Power BI *(Coming Soon)*
+- Python
+
+## 📚 Learning Progress
+
+### ✅ Excel
+- Basic Formulas
+- IF Function
+- Data Entry
+
+### ✅ NumPy
+- Arrays
+- Indexing & Slicing
+- Reshaping
+- Manipulation
+- Array Properties & Operations
+- Broadcasting
+- Vectorization
+- Handling Missing Values
+
+### ✅ Pandas
+- Introduction to Pandas
+- Data Analysis
+- Series
+- DataFrame
+
+### ⏳ Coming Soon
 - SQL
 - Power BI
-
-# 📚 Learning Progress
-
-Excel
-
-- Introduction to Excel
-
-NumPy
-
-- Arrays
-- Array Indexing
-- Array Slicing
-- Array Operations
-- Statistical Functions
-
-# 🎯 Goal
-
-Build strong analytical skills, work with real-world datasets, and become internship-ready in Data Analytics.
-
-# 📌 Current Focus
-
-- Strengthening Python fundamentals
-- Learning Excel for Data Analysis
-- Exploring NumPy and data manipulation
+- Real-world Projects
 
 ---
-
-Learning one step at a time.
+⭐ This repository will continue to grow as I learn and build new projects.
