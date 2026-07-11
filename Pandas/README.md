@@ -11,6 +11,19 @@ Topics Covered:
 - Data Analysis
 - Series
 - DataFrame
+  
+## Day 2 - Pandas Series
+
+### Topics Covered
+- What is a Series?
+- Creating a Series
+- Custom Index
+- Accessing Elements
+
+### Key Takeaways
+- Series is a one-dimensional data structure.
+- Each value has an associated index.
+- Custom indexes make data more meaningful and easier to access.
 
 ### Key Takeaways
 - Pandas helps clean, organize, and analyze data efficiently.
